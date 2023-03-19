@@ -1,5 +1,4 @@
-# Ricks-Library
- 
+# Online Library Management System
 An interactive web portal for automating various manual processes done by librarian.
 
 GitHub repo size GitHub code size in bytes GitHub license
